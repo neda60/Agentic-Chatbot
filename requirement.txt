@@ -15,3 +15,6 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma #=0.2.4
 beautifulsoup4
+streamlit
+langchain-groq
+langgraph
